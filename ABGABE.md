@@ -2,16 +2,17 @@
 
 Vor der Abgabe ausfüllen und committen. Ablauf: [Abgabeanleitung](docs/ABGABE.md).
 
-**Moodle-Gruppe (A, B, C oder G):** noch ausfüllen
+**Moodle-Gruppe: A
 
 ## Mitglieder
 
 | GitHub-Benutzername | Arbeitsteam beim Einstieg (1 oder 2) |
 | --- | --- |
-| noch ausfüllen | noch ausfüllen |
-| noch ausfüllen | noch ausfüllen |
-| noch ausfüllen | noch ausfüllen |
-| noch ausfüllen | noch ausfüllen |
+| s57846 | noch ausfüllen |
+| s57532 | noch ausfüllen |
+| s57081-DominikSuppan | noch ausfüllen |
+| Beton-Dev | |
+| wilschermarco | noch ausfüllen |
 
 Gruppe G ergänzt eine fünfte Zeile. Nennt alle Mitglieder und dokumentiert unten
 auch die wechselnde Besetzung des Zweier- und Dreierteams.
