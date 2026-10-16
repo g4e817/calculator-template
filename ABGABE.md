@@ -8,11 +8,11 @@ Vor der Abgabe ausfüllen und committen. Ablauf: [Abgabeanleitung](docs/ABGABE.m
 
 | GitHub-Benutzername | Arbeitsteam beim Einstieg (1 oder 2) |
 | --- | --- |
-| s57846 | noch ausfüllen |
-| s57532 | noch ausfüllen |
-| s57081-DominikSuppan | noch ausfüllen |
-| Beton-Dev | |
-| wilschermarco | noch ausfüllen |
+| s57846 | 1 | Sebastian Ritter |
+| s57532 | 2 | Paul Pesenhofer |
+| s57081-DominikSuppan | 2 | Dominik Suppan |
+| Beton-Dev | 1 | Martin Gfrerer-Zahradnik |
+| wilschermarco | 1 | Marco Wilscher |
 
 Gruppe G ergänzt eine fünfte Zeile. Nennt alle Mitglieder und dokumentiert unten
 auch die wechselnde Besetzung des Zweier- und Dreierteams.
