@@ -24,7 +24,7 @@ Status: noch nicht freigegeben, in Arbeit oder erledigt.
 
 | Aufgabe | Status | Issues / Pull Requests | Neue Tests bzw. CI-Nachweis |
 | --- | --- | --- | --- |
-| 1: Modulo | noch ausfüllen | noch ausfüllen | noch ausfüllen |
+| 1: Modulo | in Arbeit | Issue #1 /  | noch ausfüllen |
 | 2: E2E-Tests | noch ausfüllen | noch ausfüllen | noch ausfüllen |
 | 3: sin/cos | noch ausfüllen | noch ausfüllen | noch ausfüllen |
 | 4: Skalarprodukt | noch ausfüllen | noch ausfüllen | noch ausfüllen |
