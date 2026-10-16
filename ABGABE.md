@@ -6,8 +6,8 @@ Vor der Abgabe ausfüllen und committen. Ablauf: [Abgabeanleitung](docs/ABGABE.m
 
 ## Mitglieder
 
-| GitHub-Benutzername | Arbeitsteam beim Einstieg (1 oder 2) |
-| --- | --- |
+| GitHub-Benutzername | Arbeitsteam beim Einstieg (1 oder 2) | vollständige Namen |
+| --- | --- | --- |
 | s57846 | 1 | Sebastian Ritter |
 | s57532 | 2 | Paul Pesenhofer |
 | s57081-DominikSuppan | 2 | Dominik Suppan |
