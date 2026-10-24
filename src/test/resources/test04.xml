@@ -2,6 +2,5 @@
 <calculation>
     <push value="10" />
     <push value="3" />
-    <pop/>
     <operation value="%" />
 </calculation>
