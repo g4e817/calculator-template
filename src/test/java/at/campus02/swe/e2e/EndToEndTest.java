@@ -15,7 +15,6 @@ public class EndToEndTest {
 
     @Test
     public void testAddThenMultiply() throws Exception {
-
         //setup
         Calculator calc = new CalculatorImpl();
         Parser parser = new Parser(calc);
@@ -29,7 +28,6 @@ public class EndToEndTest {
 
     @Test
     public void testSubtractDivideModulo() throws Exception {
-
         //setup
         Calculator calc = new CalculatorImpl();
         Parser parser = new Parser(calc);
@@ -43,7 +41,6 @@ public class EndToEndTest {
 
     @Test(expected = CalculatorException.class)
     public void testDivisionByZero() throws Exception {
-
         //setup
         Calculator calc = new CalculatorImpl();
         Parser parser = new Parser(calc);
