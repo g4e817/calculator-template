@@ -28,9 +28,13 @@ public class CalculatorImpl implements Calculator {
                 return c;
             case mul:
                 return a * b;
+            case mod:
+                return a % b;
         }
         return 0;
     }
+
+    //TEST
 
     @Override
     public double pop() throws CalculatorException {
