@@ -14,23 +14,49 @@ public class CalculatorImpl implements Calculator {
     public double perform(Operation op) throws CalculatorException {
 
         double b = pop();
-        double a = pop();
 
         switch (op) {
-            case add:
+            case add: {
+                double a = pop();
                 return a + b;
-            case sub:
+            }
+            case sub: {
+                double a = pop();
                 return a - b;
-            case div:
+            }
+            case div: {
+                double a = pop();
                 double c = a / b;
                 if (Double.isInfinite(c))
                     throw new CalculatorException("Division by zero");
                 return c;
-            case mul:
+            }
+            case mul: {
+                double a = pop();
                 return a * b;
+            }
+            case mod: {
+                double a = pop();
+                return a % b;
+            }
+            case sin: {
+                double sinResult = Math.sin(b);
+                if (Double.isNaN(sinResult))
+                    throw new CalculatorException("Invalid input for sin operation");
+                return sinResult;
+            }
+            case cos: {
+                double cosResult = Math.cos(b);
+                if (Double.isNaN(cosResult))
+                    throw new CalculatorException("Invalid input for cos operation");
+                return cosResult;
+            }
         }
         return 0;
     }
+
+    //TEST
+    //COMMIT
 
     @Override
     public double pop() throws CalculatorException {

@@ -78,6 +78,12 @@ public class Parser {
             return Operation.div;
         else if ("-".equals(value))
             return Operation.sub;
+        else if ("%".equals(value))
+            return Operation.mod;
+        else if ("sin".equals(value))
+            return Operation.sin;
+        else if ("cos".equals(value))
+            return Operation.cos;
 
         throw new CalculatorException("Unsupported Operation");
     }
